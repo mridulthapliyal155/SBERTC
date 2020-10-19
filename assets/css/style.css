@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
+  background: #2E5775;
   padding: 18px 0;
 }
 
@@ -1502,14 +1502,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #000;
+  background: #2E5775;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #111;
+  background: #2E5775;
   padding: 60px 0 30px 0;
 }
 
